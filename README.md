@@ -3,8 +3,10 @@
 <a href="https://www.linkedin.com/in/ahmed-mokbel-105b53168/">
   <img align="left" alt="Ahmed's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://www.instagram.com/ahmedmokbel9/">
   <img align="left" alt="Ahmed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <a href="https://www.facebook.com/profile.php?id=100013495657392">
   <img align="left" alt="Ahmed's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
